@@ -1,13 +1,13 @@
 {
-  "name": "ember-animate",
-  "version": "0.0.1",
+  "name": "ember-animatejs",
+  "version": "0.0.2",
   "authors": [
     "Citlalli Murillo <citmusa@hotmail.com>"
   ],
   "description": "Animations for ember-cli.",
   "main": "ember-animate.js",
   "license": "MIT",
-  "homepage": "N/A",
+  "homepage": "https://github.com/citmusa/ember-animatejs/",
   "ignore": [
     "**/.*",
     "node_modules",
